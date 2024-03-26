@@ -1,6 +1,6 @@
 # get_next_line
 
-![get_next_line Logo](https://yourimagehost.com/your-get_next_line-logo.png)
+![get_next_line Logo](png/get_next_line.png)
 
 Hey there! Welcome to my get_next_line project! 📝 In this project, I've implemented a function that reads content line by line from various sources like files, stdin, or network connections. Join me as we delve into the world of static variables and efficient file reading techniques in C programming.
 
@@ -46,7 +46,4 @@ int main() {
     close(fd);
     return 0;
 }
----
-## Contributing
-Contributions to get_next_line are welcome! If you have ideas for improvements or bug fixes, feel free to open a pull request or submit an issue.
 
