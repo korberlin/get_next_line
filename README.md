@@ -25,7 +25,7 @@ As a bonus, I took on the challenge of developing `get_next_line` using only one
 To use my `get_next_line` function, follow these steps:
 1. Clone this repository to your local machine.
 2. Navigate into the project directory.
-3. Compile the source files using the provided Makefile.
+3. Compile the source files using -D BUFFER_SIZE=n flag to change buffer size. if not provided default buffer size will be set to 42.
 4. Include the header file `get_next_line.h` in your source files.
 5. Call the `get_next_line` function with the file descriptor as the parameter to read lines from the file.
 
