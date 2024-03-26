@@ -2,7 +2,7 @@
 
 <img src="png/get_next_line.png" alt="ft_printf Logo" width="100" height="100">
 
-Hey there! Welcome to my get_next_line project! 📝 In this project, I've implemented a function that reads content line by line from various sources like files, stdin, or network connections. Join me as we delve into the world of static variables and efficient file reading techniques in C programming.
+Welcome to my get_next_line project! 📝 In this project, I've implemented a function that reads content line by line from various sources like files, stdin, or network connections. Join me as we delve into the world of static variables and efficient file reading techniques in C programming.
 
 ---
 
