@@ -1,10 +1,10 @@
 # get_next_line
 
-![get_next_line Logo](img/cover-get_next_line-bonus.png)
+![get_next_line Logo](png/cover-get_next_line-bonus.png)
 
 Welcome to my get_next_line project! 📝 In this project, I've implemented a function that reads content line by line from various sources like files, stdin, or network connections. Join me as we delve into the world of static variables and efficient file reading techniques in C programming.
 
-![get_next_line Passed with Bonus](img/get_next_linem.png)
+![get_next_line Passed with Bonus](png/get_next_linem.png)
 
 ---
 
